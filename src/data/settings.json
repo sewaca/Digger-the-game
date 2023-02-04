@@ -1,0 +1,9 @@
+{
+  "blockwidth": 64,
+  "fps": 60,
+  "huntersMovesPerSecond": 3,
+  "offset": {
+    "x": 100,
+    "y": 100
+  }
+}
